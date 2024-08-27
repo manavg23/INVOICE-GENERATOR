@@ -4,7 +4,8 @@ A web application for generating invoices, built using React, provides an effici
 
 
 
-
+### To open app:
+Click link: https://manavg23.github.io/INVOICE-GENERATOR/
 
 ### Built With
 **[![React JS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://vercel.com/):** A open-source, front-end JavaScript library.
@@ -21,6 +22,7 @@ A web application for generating invoices, built using React, provides an effici
 - Adding items and services to invoices.
 - Automatic tax and discount calculations.
 - Printing invoices directly from the app.
+  
 
 ### Screenshots
 ![image_1](src/demo/1_Starter_Page.png)
